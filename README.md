@@ -2,6 +2,7 @@
 
 ## Table of Contents
   * [Introduction](#introduction)
+  * [API Keys](#api)
   * [Observations](#observations)
   * [Data Visualization](#data-visualization)
     * [Temperature (F) vs. Latitude](#temp)
@@ -19,6 +20,14 @@ I have built a series of scatter plots to showcase the following relationships:
 - Humidity (%) vs. Latitude
 - Cloudiness (%) vs. Latitude
 - Wind Speed (mph) vs. Latitude
+
+# API Keys
+
+The script uses the OpenWeatherMap API; therefore, to run this jupyter notebook, the OpenWeatherMap API keys will be required.
+
+The API key is available <a href="https://home.openweathermap.org/users/sign_in">here</a> after creating an account and signing in.
+
+Before running the notebook, make sure to create 'api_keys.py' file with api_key = "Type your api key here" in the 'WeatherPy' folder.
 
 # Observations
 
