@@ -11,7 +11,7 @@
     
 
 # Introduction
-## <a name="introduction">Introduction</a>
+
 The purpose of this project was to create a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I utilized a simple Python library, the OpenWeatherMap API to create a representative model of weather across world cities.
 I have built a series of scatter plots to showcase the following relationships:
 
