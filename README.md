@@ -31,7 +31,6 @@ I have built a series of scatter plots to showcase the following relationships:
 
 # Data Visualizations
 
-# Data Visualiozation
 ## <a name="lat">Temperature (F) vs. Latitude</a>
 Bar plot using both Pandas's and Matplotlib's that shows  the number of total mice for each treatment regimen throughout the course of the study.<br>
 ![image](https://github.com/saif-gorges/python-APIs-challenge/blob/main/latitude_vs_temp.png)
